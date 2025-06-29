@@ -1,0 +1,71 @@
+/* ───────────────────────────────────────────
+   HERO POLISH  ·  AndreiRoibu.github.io
+   All rules here affect only the splash page
+   ─────────────────────────────────────────── */
+
+/* 🔸 1. Shared column width
+   -------------------------------------------------------------- */
+$page-hero-content-width: 1000px !default;
+
+.page__hero--overlay .wrapper {
+  max-width: $page-hero-content-width;
+  margin-left:  auto;
+  margin-right: auto;
+}
+
+/* 🔸 2. Title – centred block, left-aligned text */
+.page__title {
+  max-width: $page-hero-content-width;
+  margin: 0 auto .75rem;
+  text-align: left;
+}
+
+/* 🔸 3. Portrait + copy spacing */
+.page__hero--overlay img       { margin-bottom: 1rem; }
+.page__hero--overlay h3        { margin: 0 0 .5rem; }
+.page__hero--overlay p:last-of-type { margin-bottom: 0; }
+
+/* 🔸 4. Centre the button bar and space buttons nicely */
+.page__hero--overlay .wrapper > p {
+  display: flex;
+  justify-content: left;
+  flex-wrap: wrap;
+  gap: .5rem;
+  margin: 1.25rem auto 0;
+  max-width: $page-hero-content-width;
+  padding: 0;
+}
+
+/* 🔸 5. Responsive tweaks */
+@media (max-width: 700px) {
+  .page__hero--overlay .wrapper {      /* stack portrait & text   */
+    flex-direction: column;
+    text-align: center;
+  }
+  .page__hero--overlay .wrapper img {  /* centre the portrait     */
+    margin: 0 auto 1.25rem;
+  }
+  .page__hero--overlay h3,
+  .page__hero--overlay p { text-align: left; }
+}
+@media (max-width: 480px) {            /* thumb-friendly buttons  */
+  .page__hero--overlay .wrapper > p a.btn {
+    width: 100%;
+    justify-content: center;
+  }
+}
+
+/* 🔸 6. Nicer typography on big screens */
+@media (min-width: 1200px) {
+  .page__hero--overlay p  { font-size: 1.125rem; line-height: 1.55; }
+  .page__hero--overlay h3 { font-size: 1.35rem; }
+}
+
+/* 🔸 7. Subtle fade-up animation */
+@keyframes heroFadeUp {
+  from { opacity: 0; transform: translateY(30px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.page__hero--overlay .wrapper {
+  animation: heroFadeUp .8s ease-out .15s both;
+}

@@ -3,4 +3,52 @@
 layout: splash
 <!-- author_profile: true -->
 permalink: /
+hidden: true
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.8"
+  overlay_image: "/assets/images/conny-schneider-pREq0ns_p_E-unsplash.jpg" # TODO: Find a background image
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  actions:
+    - label: "<i class='fas fa-user-tie'></i> Learn About Me"
+      url: "/about/"
+    - label: "<i class='fas fa-cogs'></i> Explore Projects"
+      url: "/projects/"
+    - label: "<i class='fas fa-lightbulb'></i> Read My Insights"
+      url: "/insights/"
+excerpt: >
+  <div style="max-width: 1000px; margin: 0 auto; display: flex; align-items: center; text-align: left;">
+    <div style="flex-shrink: 0; margin-right: 2.5em;">
+      <img src="/assets/images/bio-photo.jpeg" alt="Andrei Roibu" style="border-radius: 50%; width: 250px; height: 250px; object-fit: cover;">
+    </div>
+    <div>
+      <h3 style="margin-top: 0; margin-bottom: 0.5em;">Applied AI & Deep Tech Leader</h3>
+      <p style="margin-bottom: 0;">I thrive at the intersection of deep research, hardware-aware engineering, and commercial strategy. My work focuses on translating complex technological breakthroughs into scalable, market-ready solutions that solve critical industry challenges.</p>
+    </div>
+  </div>
+feature_row:
+  - image_path: assets/images/neuron-horizontal-cropped.jpg
+    alt: "Deep Research"
+    title: "Deep Research"
+    excerpt: "My work is grounded in a rigorous, first-principles understanding, culminating in a DPhil from the University of Oxford in applied AI to multimodal 3D neuroimaging."
+    url: "/projects/phd-neuroimaging-research/"
+    btn_label: "View PhD Case Study"
+    btn_class: "btn--inverse"
+  - image_path: assets/images/chip-picture-horizontal.jpg
+    alt: "Applied Engineering"
+    title: "Applied Engineering"
+    excerpt: "I translate complex theory into robust, high-performance systems, pioneering novel algorithms for next-generation in-memory computing hardware at Synthara AG."
+    url: "/projects/synthara-in-memory-computing/"
+    btn_label: "Read Engineering Project"
+    btn_class: "btn--inverse"
+    caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  - image_path: assets/images/cities.jpg
+    alt: "Strategic Impact"
+    title: "Strategic Impact"
+    excerpt: "I connect deep technology to tangible business value, contributing to go-to-market strategies and enabling new ventures worth over $840M at Rolls-Royce."
+    url: "/projects/rolls-royce-market-strategy/"
+    btn_label: "Explore the Business Case"
+    btn_class: "btn--inverse"
 ---
+
+{% include feature_row %}

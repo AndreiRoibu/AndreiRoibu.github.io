@@ -1,0 +1,28 @@
+/* ───────────────────────────────────────────
+   FEATURE ROW IMAGE OVERLAY
+   ─────────────────────────────────────────── */
+
+/* This prepares the image container for the overlay */
+.feature__item .archive__item-teaser {
+  position: relative;
+  display: block;
+}
+
+/* This creates the actual semi-transparent overlay */
+.feature__item .archive__item-teaser::before {
+  content: ''; /* Required for pseudo-elements */
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  // background-color: rgba(20, 28, 58, 0.65); /* A semi-transparent dark navy blue */
+  background-color: rgba(0, 0, 0, 0.5); /* A semi-transparent black */
+  transition: opacity 0.3s ease-out;
+  z-index: 2; /* Ensures the overlay sits on top of the image */
+}
+
+/* This creates a nice interactive effect on hover */
+.feature__item:hover .archive__item-teaser::before {
+  opacity: 0.1; /* On hover, the overlay becomes more transparent to reveal the image */
+}

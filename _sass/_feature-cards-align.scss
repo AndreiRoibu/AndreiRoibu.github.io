@@ -1,0 +1,111 @@
+/*  -------------------------------------------------------------
+    FEATURE‑ROW GRID  ·  home‑page “pillars” cards
+    Four fixed bands ⇒ titles, images, blurbs, and buttons line‑up
+-----------------------------------------------------------------*/
+
+/* ── 0 ▸ remove the splash‑page max‑width cap ────────────────── */
+.layout--splash .page__content{
+  max-width:none !important;
+  width:100%;
+  margin:0;
+  padding:0 1.5rem;        /* keep 24 px gutters */
+}
+
+/* ── 1 ▸ outer wrapper holds the three cards ─────────────────── */
+.layout--splash .feature__wrapper{
+  display:flex;
+  flex-wrap:wrap;             /* ★ NEW – lets cards wrap           */
+  justify-content:space-between;   /* first & last flush to gutters */
+  gap:2rem;                        /* breathing space between cards */
+  width:100%;
+  max-width:none !important;
+  padding-inline:1rem;             /* tiny extra inner gutter       */
+}
+
+/* wrap 3 → 2 → 1 cards on narrow screens */
+@media (max-width:900px){
+  .layout--splash .feature__item{ flex:1 1 260px; }
+}
+
+/* ── 2 ▸ the card itself ─────────────────────────────────────── */
+.feature__item{
+  flex:1 1 0;               /* grow evenly, base‑size 0            */
+  min-width:260px;
+  max-width:420px;
+  display:flex;
+  flex-direction:column;
+  text-align:left;
+}
+
+/* tablet: 2‑up --------------------------------------------------*/
+@media (max-width:900px){
+  .feature__item{ flex:1 1 45%; }   /* ≈ two per row with gap     */
+}
+
+/* phone: 1‑up ---------------------------------------------------*/
+@media (max-width:600px){
+  .feature__item{ flex:1 1 100%; }  /* full width, stacked        */
+}
+
+
+/* --- row‑1 · TITLE ------------------------------------------- */
+.feature__item h3,
+.feature__item .archive__item-title{     /* both selectors for safety  */
+  line-height:1.25;
+  min-height:5rem;
+  margin:0 0 0rem;
+  display:flex;              /* keeps one‑liners vertically aligned */
+  align-items:flex-start;
+}
+
+/* --- row‑2 · IMAGE SLOT -------------------------------------- */
+.feature__item .archive__item-teaser,
+.feature__item .feature__item-teaser{
+  height:350px;              /* identical height in every card      */
+  width:100%;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  margin:0 0 .75rem;
+}
+.feature__item .archive__item-teaser img,
+.feature__item .feature__item-teaser img{
+  max-height:100%;
+  max-width:100%;
+  object-fit:cover;
+}
+
+/* --- row‑3 · BLURB SLOT -------------------------------------- */
+.feature__item .archive__item-excerpt{
+  flex:0 0 8rem;             /* fixed 9 rem band everywhere         */
+  overflow:hidden;           /* prevents spill‑over                 */
+  margin:0 0 1rem;
+  align-items: top;
+}
+
+/* --- row‑4 · BUTTON ------------------------------------------ */
+.feature__item .archive__item-body{      /* turn body into flex‑box     */
+  display:flex;
+  flex-direction:column;
+}
+.feature__item .archive__item-body > p:last-child{
+  margin-top:auto;           /* stick button to bottom of card      */
+}
+.feature__item .btn{
+  width:max-content;
+  align-self:flex-start;
+}
+
+/* responsive wrap (safety duplicate) --------------------------- */
+@media (max-width:900px){
+  .feature__item{ flex:1 1 260px; }
+}
+
+// .feature__item:hover{
+//   box-shadow:0 4px 20px rgba(0,0,0,.25);
+// }
+
+.feature__item .btn{
+  width:max-content;
+  min-width:8.5rem;
+}
