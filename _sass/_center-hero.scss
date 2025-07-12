@@ -21,9 +21,18 @@ $page-hero-content-width: 1000px !default;
 }
 
 /* 🔸 3. Portrait + copy spacing */
-.page__hero--overlay img       { margin-bottom: 1rem; }
-.page__hero--overlay h3        { margin: 0 0 .5rem; }
-.page__hero--overlay p:last-of-type { margin-bottom: 0; }
+.hero-split {
+  display: flex;
+  align-items: center;
+  text-align: left;
+}
+.hero-avatar {
+  flex-shrink: 0;
+  margin-right: 2.5em;
+}
+.hero-copy h3 { margin: 0 0 .5rem; }
+.hero-copy p { margin-bottom: 0; }
+
 
 /* 🔸 4. Centre the button bar and space buttons nicely */
 .page__hero--overlay .wrapper > p {
@@ -38,16 +47,24 @@ $page-hero-content-width: 1000px !default;
 
 /* 🔸 5. Responsive tweaks */
 @media (max-width: 700px) {
-  .page__hero--overlay .wrapper {      /* stack portrait & text   */
+  .hero-split {      /* stack portrait & text   */
     flex-direction: column;
     text-align: center;
   }
-  .page__hero--overlay .wrapper img {  /* centre the portrait     */
+  .hero-avatar {  /* centre the portrait     */
     margin: 0 auto 1.25rem;
   }
-  .page__hero--overlay h3,
-  .page__hero--overlay p { text-align: left; }
+  .hero-copy h3,
+  .hero-copy p { text-align: left; }
 }
+
+@media (max-width: 540px) {
+  .page__title{
+    font-size:2rem;       /* was 2.5-ish rem        */
+    margin-top: calc(env(safe-area-inset-top) + 0.75rem);
+  }
+}
+
 @media (max-width: 480px) {            /* thumb-friendly buttons  */
   .page__hero--overlay .wrapper > p a.btn {
     width: 100%;

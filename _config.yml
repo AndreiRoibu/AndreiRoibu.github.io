@@ -285,3 +285,9 @@ defaults:
       related: true
       show_date: true
       date_format: "%d-%m-%Y"
+
+
+# Add custom SASS/SCSS files to be processed
+sass:
+  load_paths:
+    - _sass

@@ -7,6 +7,6 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-@import "center-hero";
-@import "my-custom-styles"
+@import "center-hero.scss"; // custom styles for the hero section
+@import "my-custom-styles.scss"; // custom styles for the site
 // @import "feature-cards-align"; // feature cards
