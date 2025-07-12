@@ -26,3 +26,15 @@
 .feature__item:hover .archive__item-teaser::before {
   opacity: 0.1; /* On hover, the overlay becomes more transparent to reveal the image */
 }
+
+/* Pull-quote / notice box styling */
+.notice--info {
+  border-left: 5px solid #4DAAB3; /* A nice teal color */
+  padding: 1.25em;
+  margin: 2em 0;
+}
+
+/* This is the key fix: We target the paragraph INSIDE the box */
+.notice--info p {
+  font-size: 1.5em; /* 1.1 times the normal text size */
+}

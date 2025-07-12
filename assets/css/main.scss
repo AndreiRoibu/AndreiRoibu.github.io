@@ -10,3 +10,10 @@ search: false
 @import "center-hero.scss"; // custom styles for the hero section
 @import "my-custom-styles.scss"; // custom styles for the site
 // @import "feature-cards-align"; // feature cards
+
+.align-right {
+  float: right;
+  margin-left: 1.5em; /* This should already be there */
+  margin-bottom: 1em; /* This is the line to add */
+  border-radius: 8px; /* A slightly more modern radius */
+}
