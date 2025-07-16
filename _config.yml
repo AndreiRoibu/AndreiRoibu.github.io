@@ -291,3 +291,20 @@ defaults:
 sass:
   load_paths:
     - _sass
+
+# Collections
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+
+# Defines the labels for our custom taxonomies (tags)
+defaults:
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true

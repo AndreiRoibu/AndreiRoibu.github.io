@@ -26,5 +26,26 @@
     </h2>
     {% include page__meta.html type=include.type %}
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
+    {%- if post.core_discipline or post.meta_skill or post.project_type -%}
+      <div class="archive__item-tags">
+        {%- if post.core_discipline -%}
+          <p><strong>Core Discipline:</strong>
+          {% for tag in post.core_discipline %}
+            <span class="tag-badge">{{ tag }}</span>
+          {% endfor %}</p>
+        {%- endif -%}
+
+        {%- if post.meta_skill -%}
+          <p><strong>Meta-Skill:</strong>
+          {% for tag in post.meta_skill %}
+            <span class="tag-badge">{{ tag }}</span>
+          {% endfor %}</p>
+        {%- endif -%}
+
+        {%- if post.project_type -%}
+          <p><strong>Project Type:</strong> <span class="tag-badge-type">{{ post.project_type }}</span></p>
+        {%- endif -%}
+      </div>
+    {%- endif -%}
   </article>
 </div>

@@ -86,3 +86,13 @@ $page-hero-content-width: 1000px !default;
 .page__hero--overlay .wrapper {
   animation: heroFadeUp .8s ease-out .15s both;
 }
+
+/* ───────────────────────────────────────────
+   CONSTRAIN PROJECT HEADER IMAGE HEIGHT
+   ─────────────────────────────────────────── */
+
+.page__hero img {
+  max-height: 400px; /* You can adjust this value to your liking */
+  width: 100%;
+  object-fit: cover; /* This prevents the image from stretching or distorting */
+}

@@ -38,3 +38,67 @@
 .notice--info p {
   font-size: 1.5em; /* 1.1 times the normal text size */
 }
+
+/* ───────────────────────────────────────────
+   PROJECT TAG STYLING
+   ─────────────────────────────────────────── */
+
+.archive__item-tags {
+  margin-top: 1em;
+  font-size: 0.8em;
+  color: #8a8a8a;
+}
+
+.archive__item-tags p {
+  margin-bottom: 0.5em;
+  line-height: 1.6;
+}
+
+.tag-badge, .tag-badge-type {
+  display: inline-block;
+  background-color: #3a3a3a;
+  color: #e0e0e0;
+  padding: 3px 8px;
+  border-radius: 12px;
+  font-size: 0.9em;
+  margin-right: 5px;
+  white-space: nowrap;
+}
+
+/* ───────────────────────────────────────────
+PILLAR‑CARD TEXT · dim when idle, brighten on hover
+────────────────────────────────────────────── */
+
+/* 1 ▸ default state – slightly greyed‑out */
+.layout--splash .feature__item,
+.layout--splash .feature__item h3,
+.layout--splash .feature__item p,
+.layout--splash .feature__item a:not(.btn)  {   // keep the button blue
+  color: rgba(255, 255, 255, .75);              // muted white
+  transition: color .25s ease-out;
+}
+
+/* 2 ▸ hover state – full‑strength white */
+.layout--splash .feature__item:hover,
+.layout--splash .feature__item:hover h3,
+.layout--splash .feature__item:hover p,
+.layout--splash .feature__item:hover a:not(.btn) {
+  color: #ffffff;                               // bright white
+}
+
+
+/* ───────────────────────────────────────────
+PILLAR‑CARD BUTTONS · dim → bright
+───────────────────────────────────────────── */
+
+/* 1 ▸ idle state – 15 % darker */
+.layout--splash .feature__item .btn {
+  filter: brightness(.85);               // works on any button colour
+  transition: filter .25s ease-out;      // match the picture/text timing
+}
+
+/* 2 ▸ active state – full brightness */
+.layout--splash .feature__item:hover .btn,
+.layout--splash .feature__item .btn:hover {
+  filter: none;                          // reset to original colour
+}
