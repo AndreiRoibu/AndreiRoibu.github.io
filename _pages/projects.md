@@ -13,12 +13,11 @@ author_profile: true
 read_time: true
 ---
 
-This portfolio showcases my experience in taking ideas from initial research to tangible, high-impact outcomes.
+This portfolio showcases my experience taking ideas from initial research to tangible, high-impact outcomes.
 
-To help navigate each project, given their interdiciplinary nature, I use the STAR+I framework:
+To help navigate each project, given their interdisciplinary nature, I use the STAR+I framework:
 - **Situation**: Context and challenges.
 - **Task**: Objectives and goals.
 - **Action**: The steps taken to address the challenges.
 - **Interdisciplinary Integration**: Synthesizing across different disciplines.
 - **Result**: Outcome and impact.
-

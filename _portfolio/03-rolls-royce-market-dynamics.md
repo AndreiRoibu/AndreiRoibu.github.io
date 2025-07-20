@@ -56,9 +56,9 @@ Recognizing the complexity of regional aviation, I opted for an innovative, mark
   * **Aircraft Operating Cost Model:** Translated aircraft parameters into realistic costs per passenger-kilometer.
   * **Airport Noise Modeling Tool:** Assessed public sentiment and regulatory implications for new aircraft operations near population centers.
   * **Infrastructure Database:** Comprehensive mapping of regional airports, runway capabilities, and operational constraints.
-  * **Environmental and Regulatory Models:** Analyzed regulatory frameworks, public sentiment, stakeholder influence and environmental impacts such as CO2 emissions and noise pollution.
+  * **Environmental and Regulatory Models:** Analyzed regulatory frameworks, public sentiment, stakeholder influence, and environmental impacts such as CO2 emissions and noise pollution.
 
-Through extensive calibration and sensitivity analysis, I the identified the optimal parameters for market viability of regional aviation electrification across several key markets, including the US, Europe and India.
+Through extensive calibration and sensitivity analysis, I identified the optimal parameters for the market viability of regional aviation electrification across several key markets, including the US, Europe, and India.
 
 <img src="/assets/images/rolls-royce-transportation-model.png" alt="rolls-royce-transportation-model" class="align-center" style="border-radius: 1%;">
 _Diagram of the agent-based transportation model, simulating millions of passenger transportation decisions based on economics, demographics, and travel preferences._
@@ -67,10 +67,10 @@ _Diagram of the agent-based transportation model, simulating millions of passeng
 
 This project combined deep insights from multiple domains:
 
-* **Engineering & Physics:** Accurate modeling of aircraft performance and electrification implications.
+* **Engineering & Physics:** Accurate aircraft performance modeling and electrification implications.
 * **Data Science & AI:** Development of sophisticated agent-based models and sensitivity analyses of high-dimensional parameter spaces.
 * **Economics & Finance:** Cost modeling and translating technical capabilities into viable business scenarios.
-* **Social & Political Analysis:** Understanding regulatory frameworks, public sentiment, union politics and stakeholder influences.
+* **Social & Political Analysis:** Understanding regulatory frameworks, public sentiment, union politics, and stakeholder influences.
 
 I synthesized these diverse inputs into a robust strategic recommendation, delivered to the project's key internal and external stakeholders.
 
@@ -79,7 +79,7 @@ _Subset of parameters found to impact the market viability of regional aviation 
 
 ## Result
 
-My analysis clearly demonstrated a profitable, disruptive opportunity for hybrid-electric regional aircraft, with the following outcomes:
+My analysis demonstrated a profitable, disruptive opportunity for hybrid-electric regional aircraft, with the following outcomes:
 
 * **Enabled the launch of two new business lines (Regional & Advanced Air Mobility)** valued at over **\$840M annually**.
 * Design was validated by major industry partners, including Airbus, forming the foundation for one of the [2022 Airbus ZeroE concepts](https://www.airbus.com/en/innovation/energy-transition/hydrogen/zeroe-our-hydrogen-powered-aircraft).
@@ -102,4 +102,4 @@ My analysis clearly demonstrated a profitable, disruptive opportunity for hybrid
 
 ## Disclaimer
 
-> The work conducted holds private security classification from Rolls-Royce. I have been grated to disclose the above information for academic and fair personal use, with further details remaining confidential. This case study aims to accurately represent my contributions and their impact.
+> The work conducted holds private security classification from Rolls-Royce. Company management permitted me to disclose the above information for academic and fair personal use, with further details remaining confidential. This case study aims to represent my contributions and their impact accurately.

@@ -28,7 +28,7 @@ As an AI specialist bridging deep research, engineering rigor, and strategic ins
 ## Career Impact Snapshot
 
 * **Synthara AG**: Developed patented in-memory computing algorithms, achieving **100x performance and efficiency gains**.
-* **Univeristy of Oxford & Roche**: Discovered 191 statistically significant factors and 57 potential new biomarkers in brain aging using multimodal AI.
+* **University of Oxford & Roche**: Discovered 191 statistically significant factors and 57 potential new biomarkers in brain aging using multimodal AI.
 * **GE Healthcare**: Delivered AI solutions boosting Alzheimer's imaging accuracy by **12%**, and analysis speed by **90%**.
 * **Rolls-Royce**: Built agent-based market models, directly enabling new hybrid-electric businesses worth **\$840M+ annually**.
 
@@ -62,7 +62,7 @@ style="border-radius: 1%;" class="align-right">
 
 ### 1. Start with Why
 
-I approach every problem by identifying fundamental truths. Deep, first-principles understanding ensures solutions are robust, innovative, and impactful.
+I approach every problem by identifying fundamental truths. A deep, first-principles understanding ensures that solutions are robust, innovative, and impactful.
 
 ### 2. Build with Purpose
 
@@ -76,7 +76,7 @@ Innovation's true measure is its real-world impact. I consistently align deep te
 
 At **Synthara AG**, I lead algorithm development in in-memory computing, solving critical "lab-to-market" challenges to deliver unmatched performance in embedded AI. Outside my core technical work, I’m deeply invested in building and mentoring high-performing teams, while continuously expanding my expertise in project management, business development, and emotional intelligence.
 
-I actively mentor local professionals, as well as students from my native Romania, aiming to empower underdeveloped communities by sharing insights and encouraging young innovators to pursue their passions.
+I actively mentor local professionals and students from my native Romania, aiming to empower underdeveloped communities by sharing insights and encouraging young innovators to pursue their passions.
 
 <img src="/assets/images/synthara-ew-pitch.jpeg" alt="Presenting on in-memory computing at Embedded World" class="align-right" style="border-radius: 1%;" >
 *Presenting on in-memory computing at Embedded World 2025*
@@ -85,4 +85,4 @@ I actively mentor local professionals, as well as students from my native Romani
 
 If you're passionate about solving interdisciplinary challenges or creating transformative technologies, let's connect. I'd love to exchange ideas, explore collaboration, or learn from your experiences.
 
-Reach out via the [contact page](/contact/) or through my social channels.
+Reach out via the [contact page](/contact/) or my social channels.
