@@ -60,8 +60,12 @@ Recognizing the complexity of regional aviation, I opted for an innovative, mark
 
 Through extensive calibration and sensitivity analysis, I identified the optimal parameters for the market viability of regional aviation electrification across several key markets, including the US, Europe, and India.
 
-<img src="/assets/images/rolls-royce-transportation-model.png" alt="rolls-royce-transportation-model" class="align-center" style="border-radius: 1%;">
-_Diagram of the agent-based transportation model, simulating millions of passenger transportation decisions based on economics, demographics, and travel preferences._
+{% include figure
+  image_path="/assets/images/rolls-royce-transportation-model.png"
+  alt="rolls-royce-transportation-model"
+  caption="Diagram of the agent-based transportation model, simulating millions of passenger transportation decisions based on economics, demographics, and travel preferences."
+  class="align-right"
+%}
 
 ## Interdisciplinary Integration
 
@@ -74,8 +78,12 @@ This project combined deep insights from multiple domains:
 
 I synthesized these diverse inputs into a robust strategic recommendation, delivered to the project's key internal and external stakeholders.
 
-<img src="/assets/images/rolls-royce-plane.png" alt="rolls-royce-plane" class="align-center" style="border-radius: 1%;">
-_Subset of parameters found to impact the market viability of regional aviation electrification, ranging from technical properties to regulatory constraints and public perceptions._
+{% include figure
+  image_path="/assets/images/rolls-royce-plane.png"
+  alt="rolls-royce-plane"
+  caption="Subset of parameters found to impact the market viability of regional aviation electrification, ranging from technical properties to regulatory constraints and public perceptions."
+  class="align-center"
+%}
 
 ## Result
 
