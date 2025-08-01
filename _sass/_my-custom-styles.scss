@@ -20,6 +20,7 @@
   background-color: rgba(0, 0, 0, 0.5); /* A semi-transparent black */
   transition: opacity 0.3s ease-out;
   z-index: 2; /* Ensures the overlay sits on top of the image */
+  pointer-events: none; /* Allows clicks to pass through the overlay */
 }
 
 /* This creates a nice interactive effect on hover */

@@ -72,7 +72,7 @@ I approached this challenge by addressing three interconnected areas:
 {% include figure
   image_path="/assets/images/synthara-at-ew.png"
   alt="Synthara at Embedded World"
-  caption="Together with Synthara's CEO and a colleague at Embedded World 2024."
+  caption="Together with Synthara's CEO and a colleague at Embedded World 2025."
   class="align-right"
 %}
 
