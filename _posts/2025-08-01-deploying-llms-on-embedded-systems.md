@@ -18,7 +18,6 @@ toc: true
 toc_sticky: true
 toc_label: "On This Page"
 toc_icon: "fa fa-stream"
-last_modified_at: 2025-08-02
 ---
 
 <div class="notice--info" markdown="1">

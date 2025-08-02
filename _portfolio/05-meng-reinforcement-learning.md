@@ -27,7 +27,7 @@ Reinforcement learning (RL) has achieved superhuman performance in complex decis
 
 ## Task
 
-The core objective of my Master's thesis was to validate the feasibility of a biologically plausible training algorithm, **Direct Feedback Alignment (DFA)**, for training deep reinforcement learning agents. The goal was to develop and benchmark agents trained with DFA against those trained with standard backpropagation to assess its viability for future neuromorphic systems.
+The core objective of my Master's thesis was to validate the feasibility of a biologically plausible training algorithm, **Direct Feedback Alignment (DFA)**, for training deep reinforcement learning agents. The goal was to develop and benchmark agents trained with DFA against those trained with standard backpropagation to assess the viability of DFA training for future neuromorphic systems.
 
 <img src="/assets/images/meng1.png" alt="direct-feedback-alignment" class="align-center" style="border-radius: 1%;">
 

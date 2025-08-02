@@ -24,7 +24,7 @@ During my PhD at Oxford, I discovered **191 statistically significant factors** 
 
 ## Situation
 
-Brain ageing is influenced by complex biological and environmental factors, and accelerated ageing is linked to diseases like Alzheimer's and Parkinson's. The difference between chronological and apparent brain age is an important biomarker for understanding factors driving accelerated ageing or resilience, crucial for health and longevity research.
+Complex biological and environmental factors influence brain ageing, and researchers have linked accelerated ageing to diseases like Alzheimer's and Parkinson's. The difference between chronological and apparent brain age is an essential biomarker for understanding factors driving accelerated ageing or resilience, which is crucial for health and longevity research.
 
 However, traditional brain age estimation methods that use single-modality imaging miss critical insights, such as functional or microstructural changes, highlighting the need for a multimodal approach.
 

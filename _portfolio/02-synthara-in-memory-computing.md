@@ -46,7 +46,7 @@ I approached this challenge by addressing three interconnected areas:
 
 ### 1. **Technical Innovation & Algorithm Optimization**
 
-* Pioneered hardware-aware algorithms and models ranging from classical machine learning to advanced AI (LLMs), cryptography, and signal processing, optimizing them to exploit Synthara's IMC capabilities fully.
+* Pioneered hardware-aware algorithms and models ranging from classical machine learning to advanced AI (LLMs), cryptography, and signal processing, optimizing them to fully exploit Synthara's IMC capabilities.
 * Accelerated product development cycles by 90% by co-developing an embedded emulation pipeline that enabled rapid prototyping, benchmarking, and deployment of complex multimodal workloads.
 * Directed cross-functional projects from concept to completion, utilizing agile methodologies to ensure the on-time, on-budget delivery of 25+ benchmarks and PoCs.
 
@@ -82,7 +82,7 @@ My role at Synthara represented a synthesis of several diverse skillsets and dis
 
 * **AI, DSP & Embedded Systems:** Optimized algorithmic performance for specific hardware architectures, demonstrating the transformative potential of IMC technology.
 * **Commercial Strategy & Customer Insights:** Continuously refined product pitch deck and technical features based on direct client feedback, aligning technical innovation with strategic market demands and objectives.
-* **Leadership & Communication:** Bridged the gaps between technical and non-technical stakeholders, ensuring unified messaging and strategic alignment.
+* **Leadership & Communication:** I bridged the gaps between technical and non-technical stakeholders, ensuring unified messaging and strategic alignment.
 
 ## Result
 

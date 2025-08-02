@@ -17,7 +17,7 @@ toc_label: "On This Page"
 toc_icon: "fa fa-stream"
 ---
 
-I enjoy deconstructing complex topics at the intersection of **AI, deep-tech and business strategy**.  
+I enjoy deconstructing complex topics at the intersection of **AI, deep-tech, and business strategy**.  
 
 Below is a selection of recorded talks, key conferences, and publications.
 
@@ -82,7 +82,7 @@ Below is a selection of recorded talks, key conferences, and publications.
   [Agenda&nbsp;page](https://isscc.org/2025/program/edge-ai){:target="_blank"} -->
 
 
-_Responsibilities:_ Expanded global brand visibility by delivering live demos, workshops and keynotes, sourcing and managing leads and generating a qualified pipeline.
+_Responsibilities:_ Expanded global brand visibility by delivering live demos, workshops, and keynotes, sourcing and managing leads, and generating a qualified pipeline.
 
 
 

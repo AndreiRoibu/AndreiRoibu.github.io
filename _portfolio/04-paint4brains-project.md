@@ -23,7 +23,7 @@ As project lead, I spearheaded the integration of a deep learning model into the
 
 ## Situation
 
-Accurate MRI segmentation is critical for Alzheimer's research, yet existing open-source tools struggled with the severe brain atrophy common in patients, and the lower-quality imaging data. Researchers and clinicians urgently needed a robust, accessible, and more accurate tool to accelerate their work in neurodegenerative disease.
+Accurate MRI segmentation is critical for Alzheimer's research, yet existing open-source tools struggle with the severe brain atrophy common in patients and the lower-quality imaging data. Researchers and clinicians urgently needed a robust, accessible, and more accurate tool to accelerate their work in neurodegenerative disease.
 
 <img src="/assets/images/p4b1.png" alt="difference-healthy-alzheimer" class="align-center" style="border-radius: 1%;">
 
@@ -56,7 +56,7 @@ This project required a synthesis of three key domains:
 
 ## Result
 
-The project was a clear success, delivering significant value to the research community:
+The project was successful, delivering significant value to the research community:
 
 * **Boosted segmentation accuracy by 12%** for brain regions affected by Alzheimer's, a critical improvement for clinical data. It also added, for the first time, the ability for clinicians to manually edit segmentation results, enhancing the tool's usability.
 * **Accelerated MRI analysis time by 90%**, dramatically improving workflow efficiency for researchers.
