@@ -1,6 +1,6 @@
 ---
 title: "From Cloud To Edge: Three Key Enablers for LLMs on Smart Glasses"
-excerpt: "Large Language Models are powerful, but running them on resource-constrained edge devices presents unique challenges. Here we look at the practical hurdles and solutions in bridging the gap between large models and tiny hardware."
+excerpt: "The transformative power of LLMs is undeniable, but the real challenge is bringing them to resource-constrained edge devices such as smart glasses."
 layout: single
 header:
   image: /assets/images/smart_glasses.jpeg
