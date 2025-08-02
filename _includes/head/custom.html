@@ -1,5 +1,32 @@
-<!-- start custom head snippets -->
+{% comment %}FAVICONS{% endcomment %}
 
-<!-- insert favicons. use https://realfavicongenerator.net/ -->
+<!-- Old-school fall-back Safari asks for first -->
+<link rel="icon" href="{{ '/favicon.ico' | relative_url }}" type="image/x-icon">
 
-<!-- end custom head snippets -->
+<!-- Modern browsers / Safari tab -->
+<link rel="icon" type="image/png" sizes="32x32"
+      href="{{ '/assets/favicon/favicon-32x32.png' | relative_url }}">
+<link rel="icon" type="image/png" sizes="96x96"
+      href="{{ '/assets/favicon/favicon-96x96.png' | relative_url }}">
+
+<!-- SVG (Chrome/Firefox; Safari ignores this in tabs) -->
+<link rel="icon" type="image/svg+xml"
+      href="{{ '/assets/favicon/favicon.svg' | relative_url }}">
+
+<!-- Pinned-tab monochrome icon for Safari -->
+<link rel="mask-icon"
+      href="{{ '/assets/favicon/favicon.svg' | relative_url }}"
+      color="#000000">
+
+<!-- iOS home-screen icon -->
+<link rel="apple-touch-icon" sizes="180x180"
+      href="{{ '/assets/favicon/apple-touch-icon.png' | relative_url }}">
+
+<link rel="manifest"
+      href="{{ '/assets/favicon/site.webmanifest' | relative_url }}">
+
+
+<link rel="shortcut icon" href="{{ '/assets/favicon/favicon.svg' | relative_url }}">
+
+<meta name="apple-mobile-web-app-title" content="AndreiRoibu">
+<!-- <meta name="theme-color" content="#0aa6b1"> -->
