@@ -70,9 +70,9 @@ I approached this challenge by addressing three interconnected areas:
 * Acted as a key strategic partner to executive leadership, pitching sales opportunities that influenced the company's growth strategy and shaping the technical product roadmap.
 
 {% include figure
-  image_path="/assets/images/synthara-at-ew.png"
-  alt="Synthara at Embedded World"
-  caption="Together with Synthara's CEO and a colleague at Embedded World 2025."
+  image_path="assets/images/IMG_6722.jpg"
+  alt="AMLD In-Memory Computing Presentation"
+  caption="Delivering a workshop on In-Memory Computing for Edge AI at AMLD 2025."
   class="align-right"
 %}
 
