@@ -15,7 +15,7 @@ read_time: true
 <div class="feature__item--center">
 
 <p class="lead" style="text-align: left;">
-As an AI specialist bridging deep research, engineering rigor, and strategic insight, I translate complex breakthroughs into scalable, market-ready solutions.
+I use my deep AI technical knowledge, product management, and business development experience to solve complex problems under ambiguity.
 </p>
 
 </div>
@@ -27,62 +27,68 @@ As an AI specialist bridging deep research, engineering rigor, and strategic ins
 
 ## Career Impact Snapshot
 
-* **Synthara AG**: Developed patented in-memory computing algorithms, achieving **100x performance and efficiency gains**.
-* **University of Oxford & Roche**: Discovered 191 statistically significant factors and 57 potential new biomarkers in brain aging using multimodal AI.
-* **GE Healthcare**: Delivered AI solutions boosting Alzheimer's imaging accuracy by **12%**, and analysis speed by **90%**.
-* **Rolls-Royce**: Built agent-based market models, directly enabling new hybrid-electric businesses worth **\$840M+ annually**.
+* **Synthara AG**: Owned the multi-quarter applications roadmap, delivering 25+ end-to-end customer PoCs and developing LLM, TinyML, and DSP in-memory computing algorithms, achieving up to **100x faster, lower-energy runs vs. INT8 baseline**; ran international conferences and sourced 60+ B2B sales leads across the EU, USA, and China; mentored engineers, local professionals, and students. 
 
-## The Origin Story: From Aerospace to AI
+{% include figure
+ image_path="/assets/images/synthara-ew-pitch.jpeg"
+ alt="Presenting on In-Memory Computing at Embedded World"
+ caption="Presenting on In-Memory Computing at Embedded World 2025"
+ class="align-center"
+%}
 
-Inspired early by my grandfather’s passion for first-principles thinking, I pursued Aerospace Engineering at Sheffield, captivated by the intersection of mathematics, physics, and real-world applications. A pivotal internship at **Rolls-Royce** showed me how agent-based modeling and AI could shape billion-dollar business decisions, setting my course towards computational modeling and applied AI.
+* **University of Oxford & Roche**: Found **191 factors** impacting brain ageing by building a deep learning HPC pipeline and training **3D CNN**, **SWIN Vision Transformer**, and **deep fusion** models on the **multimodal biomedical data** of 30k UK Biobank subjects.
+* **GE Healthcare**: Used the **Scrum** and **Lean** methodologies to lead the team delivering an AI-powered open-source software helping clinicians work on Alzheimer's Disease.
+* **University of Sheffield**: Showed that deep reinforcement learning agents trained with **neuromorphic** direct feedback alignment match those trained with backpropagation.
+* **Rolls-Royce**: Informed CTO of a **USD 840M/year** opportunity via agent-based and market modelling with counterfactuals.
 
-My journey deepened at Oxford during my DPhil, where I applied advanced deep learning techniques to multimodal neuroimaging, collaborating closely with **GE Healthcare** and **Roche**. My research produced open-source tools accelerating neurodegenerative disease research, reinforcing my belief in technology as a powerful force for good.
+## Core Competencies
 
-<img src="/assets/images/rolls-royce-presentation-cropped.jpeg" alt="Presenting market strategy analysis"
-style="border-radius: 1%;" class="align-right">
-*Presenting my work at Rolls-Royce at BCUR 18*
+* **Artificial Intelligence & Deep Learning**: Agents, CNNs, LLMs, Reinforcement Learning, Vision Transformers
+* **Data Science**: Multimodal Data Fusion, Statistical Analysis, Data Engineering, HPC Pipelines, Data Visualization
+* **Embedded Programming**: TinyML, In-Memory Computing, Digital Signal Processing, Optimization, Emulation
+* **Project Management**: Agile/Scrum, Lean, Cross-Functional Communication, Product Roadmaps, Design Thinking
+* **Business Development**: Technical Marketing, Horizon Scanning, Research Translation, Workshops, Pitching
 
-### Core Competencies
+{% include figure
+ image_path="/assets/images/rolls-royce-presentation-cropped.jpeg"
+ alt="Presenting market strategy analysis"
+ caption="Presenting my work at Rolls-Royce at BCUR 18"
+ class="align-center"
+%}
 
-* Artificial Intelligence & Deep Learning (CNNs, LLMs, RL)
-* Business Development, R&D Commercialization & Go-to-Market Strategy
-* Embedded & In-Memory Computing
-* Multimodal Data Science & Neuroimaging
-* Project & Technical Team Leadership
+## Education & Honors
 
-### Education & Honors
+* **University of Oxford**: PhD in Applied Multimodal AI and Data Science to Biomedical Data
+    * Thesis: Deep Learning Approaches to Multimodal MRI Brain Age Estimation ([_link_](https://ora.ox.ac.uk/objects/uuid:a792835e-dac8-4241-978a-97c95085feb5))
+    * Awards: Royal Commission for the Exhibition of 1851 Industrial Fellowship (2021) ([_link_](https://royalcommission1851.org/mapping-brain-network-activity-from-structural-connectivity-using-deep-learning)), Gap Summit Leader of Tomorrow (2020)
+* **University of Sheffield**: MEng in Aerospace Engineering
+    * Thesis: Design of Artificial Intelligence Agents for Games using Deep Reinforcement Learning ([_link_](https://arxiv.org/abs/1905.04127))
+    * Awards: First-Class Honours, Valedictorian, and Mappin Medal and Premium (Top Graduating Student, 2019), Sir Harold West Award (2014)
 
-* **University of Oxford**: DPhil, AI & Multi-Modal Neuroimaging *(1851 Royal Commission Industrial Fellow, Gap Summit Leader of Tomorrow)*
-* **University of Sheffield**: MEng, Aerospace Engineering *(Valedictorian, Mappin Medal and Premium, Sir Harold West Award)*
-
-<img src="/assets/images/oxford-graduation.jpeg" alt="Oxford DPhil Graduation" class="align-right" style="border-radius: 1%;">
-*During my 2024 DPhil Graduation from Oxford*
+{% include figure
+ image_path="/assets/images/oxford-graduation.jpeg"
+ alt="Oxford PhD Graduation"
+ caption="During my 2024 PhD Graduation from Oxford"
+ class="align-center"
+%}
 
 ## My Guiding Philosophy
 
 ### 1. Start with Why
 
-I approach every problem by identifying fundamental truths. A deep, first-principles understanding ensures that solutions are robust, innovative, and impactful.
+I start by framing the problem: who the customer is, what their needs are, and what the jobs to be done are. I then break down challenges into their components, helping find the right robust, innovative, and impactful solution.
 
 ### 2. Build with Purpose
 
-Ideas must become tangible tools. My passion lies in creating high-performance, real-world solutions, from healthcare AI breakthroughs to advanced embedded computing algorithms.
+Design, develop, deliver, test, and then repeat. My passion lies in solving problems and building solutions that customers love, from healthcare AI to advanced embedded computing.
 
 ### 3. Scale for Impact
 
-Innovation's true measure is its real-world impact. I consistently align deep technology development with clear commercial outcomes, ensuring scalability, strategic relevance, and lasting industry transformation.
+Innovation's accurate measure is its real-world impact. I translate deep technology outcomes with commercial solutions, aligning sales, marketing, design, and engineering teams to ensure successful product launches and market adoption.
 
-## The "Now": In-Memory Computing & Beyond
-
-At **Synthara AG**, I lead algorithm development in in-memory computing, solving critical "lab-to-market" challenges to deliver unmatched performance in embedded AI. Outside my core technical work, I’m deeply invested in building and mentoring high-performing teams, while continuously expanding my expertise in project management, business development, and emotional intelligence.
-
-I actively mentor local professionals and students from my native Romania, aiming to empower underdeveloped communities by sharing insights and encouraging young innovators to pursue their passions.
-
-<img src="/assets/images/synthara-ew-pitch.jpeg" alt="Presenting on in-memory computing at Embedded World" class="align-right" style="border-radius: 1%;" >
-*Presenting on in-memory computing at Embedded World 2025*
 
 ## Let's Connect
 
-If you're passionate about solving interdisciplinary challenges or creating transformative technologies, let's connect. I'd love to exchange ideas, explore collaboration, or learn from your experiences.
+Let's connect if you are passionate about solving interdisciplinary challenges or creating transformative technologies. I would love to exchange ideas, explore collaboration, or learn from your experiences.
 
 Reach out via the [contact page](/contact/) or my social channels.
