@@ -6,15 +6,15 @@ author_profile: false
 ---
 
 <p class="lead" style="text-align:left">
-I love exchanging ideas at the intersection of AI and business strategy, and across industries ranging from embedded systems to healthcare and aerospace.
+I love exchanging ideas at the intersection of AI, business development, product management and emotional intelligence, and across industries ranging from embedded systems to healthcare and aerospace.
 If you want to <strong>teach me something new, explore collaboration, or ask for early-career advice</strong>,
 let’s talk. The best way to reach me is via email (fastest) or by connecting on LinkedIn.
 </p>
 
 <ul style="margin:1rem 0 2.5rem; list-style:none; padding:0; font-size:1.05em">
-  <li>🚀 Deep-tech or business collaboration</li>
+  <li>🚀 Deep-tech, AI, or business collaboration</li>
   <li>🧭 Mentoring / career guidance</li>
-  <li>💡 Feedback on my work or site</li>
+  <li>💡 Feedback on my work or website</li>
 </ul>
 
 <div style="text-align:center; margin:2em 0 3em">
