@@ -153,6 +153,13 @@ To install:
 
 For detailed instructions on how to configure, customize, add/migrate content, and more read the [theme's documentation](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/).
 
+## Running
+
+```bash
+bundle exec jekyll clean   # clears old CSS                              
+bundle exec jekyll serve
+```
+
 ## Contributing
 
 Found a typo in the documentation or interested in [fixing a bug](https://github.com/mmistakes/minimal-mistakes/issues)? Then by all means [submit an issue](https://github.com/mmistakes/minimal-mistakes/issues/new) or [pull request](https://help.github.com/articles/using-pull-requests/). If this is your first pull request, it may be helpful to read up on the [GitHub Flow](https://guides.github.com/introduction/flow/) first.
@@ -287,3 +294,4 @@ Lunr is distributed under the terms of the [MIT License](http://opensource.org/l
 Minimal Mistakes incorporates [clipboard.js](https://clipboardjs.com/),
 Copyright (c) 2021 Zeno Rocha.
 Clipboard.js is distributed under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+
