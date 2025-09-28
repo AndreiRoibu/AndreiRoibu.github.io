@@ -4,8 +4,8 @@ main:
     url: /about/
   - title: "Projects"
     url: /projects/
-  - title: "Insights"
-    url: /insights/
+  - title: "Blog"
+    url: /blog/
   - title: "Speaking"
     url: /speaking/
   - title: "Contact"
