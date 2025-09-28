@@ -13,7 +13,7 @@ author_profile: true
 read_time: true
 ---
 
-This portfolio showcases my experience taking ideas from initial research to tangible, high-impact outcomes.
+Here, you can find some of the projects I have worked on.
 
 To help navigate each project, given their interdisciplinary nature, I use the STAR+I framework:
 - **Situation**: Context and challenges.
