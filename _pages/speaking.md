@@ -68,13 +68,14 @@ Below is a selection of recorded talks, key conferences, and publications.
 
 {% include gallery layout="half" %}
 
-* **CERN Technical Workshop 2025** – Geneva, Switzerland
-* **Embedded World 2025** – Nuremberg, Germany
-* **MWC Barcelona 2025** – Barcelona, Spain
-* **ISSCC 2025** – San Francisco, USA
-* **AMLD 2025** – Lausanne, Switzerland
-* **United Nations AI for Good Global Summit 2024** – Geneva, Switzerland
-* **IEEE Swiss Conference on Data Science 2023** – Zurich, Switzerland
+* **CERN Technical Workshop 2025** - Geneva, Switzerland
+* **Embedded World 2025** - Nuremberg, Germany
+* **MWC Barcelona 2025** - Barcelona, Spain
+* **ISSCC 2025** - San Francisco, USA
+* **AMLD 2025** - Lausanne, Switzerland
+* **SWII 2024** - Zürich, Switzerland
+* **United Nations AI for Good Global Summit 2024** - Geneva, Switzerland
+* **IEEE Swiss Conference on Data Science 2023** - Zurich, Switzerland
 
 _Responsibilities:_ Expanded global brand visibility by delivering live demos, workshops, and keynotes, sourcing and managing leads, and generating a qualified pipeline.
 
