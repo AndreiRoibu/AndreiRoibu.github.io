@@ -5,17 +5,22 @@ layout: single
 author_profile: false
 ---
 
-<p class="lead" style="text-align:left">
-I love exchanging ideas at the intersection of AI, business development, product management and emotional intelligence, and across industries ranging from embedded systems to healthcare and aerospace.
-If you want to <strong>teach me something new, explore collaboration, or ask for early-career advice</strong>,
-let’s talk. The best way to reach me is via email (fastest) or by connecting on LinkedIn.
+<!-- <p class="lead" style="text-align:left">
+I am always interested in growing my network. The best way to reach me is via email (the fastest option) or on LinkedIn. Let's talk, if you want to:
 </p>
 
 <ul style="margin:1rem 0 2.5rem; list-style:none; padding:0; font-size:1.05em">
-  <li>🚀 Deep-tech, AI, or business collaboration</li>
-  <li>🧭 Mentoring / career guidance</li>
-  <li>💡 Feedback on my work or website</li>
-</ul>
+ <li> -> teach me something new or offer me feedback </li>
+ <li> -> explore collaboration </li>
+ <li> -> ask for early-career advice </li>
+</ul> -->
+
+I am always interested in growing my network. Let's talk, if you want to:
+* teach me something new or offer me feedback
+* explore collaboration
+* ask for early-career advice
+
+The best way to reach me is via email (the fastest option) or on LinkedIn.
 
 <div style="text-align:center; margin:2em 0 3em">
   <a href="mailto:contact@andreiroibu.com"
@@ -29,12 +34,12 @@ let’s talk. The best way to reach me is via email (fastest) or by connecting o
 </div>
 
 <p style="text-align:center; font-size:1.1em; border-top:1px solid #444;
-          padding-top:2em">
-  You can also find my work here:
+ padding-top:2em">
+ You can also find my work here:
 </p>
 
 <div style="text-align:center; margin:2rem 0 3rem; display:flex;
-            flex-wrap:wrap; gap:.75rem; justify-content:center">
+ flex-wrap:wrap; gap:.75rem; justify-content:center">
 
   <a href="https://github.com/AndreiRoibu"
      class="btn btn--primary"
@@ -63,7 +68,8 @@ let’s talk. The best way to reach me is via email (fastest) or by connecting o
 </div>
 
 <!-- <div style="text-align:center; margin-top:3em">
-  <a class="btn btn--info"
-     href="https://calendly.com/andreiroibu/intro"
-  ><i class="far fa-calendar-alt"></i> Book a 30-min chat</a>
+ <a class="btn btn--info"
+ href="https://calendly.com/andreiroibu/intro"
+ ><i class="far fa-calendar-alt"></i> Book a 30-min chat</a>
 </div> -->
+

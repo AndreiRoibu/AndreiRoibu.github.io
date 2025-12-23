@@ -19,9 +19,9 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Andrei Roibu"
 title_separator          : "|"
-subtitle                 : "Deep-Tech Polymath"
+subtitle                 : "Machine Learning Engineer"
 name                     : "Andrei Roibu"
-description              : "Applied AI specialist, Oxford PhD, and Product Manager, translating deep research into market-ready solutions."
+description              : "Machine learning engineer with Oxford PhD in applied AI and biomedical data science."
 url                      : "https://andreiroibu.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "AndreiRoibu/AndreiRoibu.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -76,7 +76,7 @@ social:
 author:
   name             : "Andrei Roibu"
   avatar           : "assets/images/bio-photo.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Oxford PhD, AI developer, and product manager. I build high-performance deep learning and data pipelines across embedded and HPC, partnering with executives and domain experts to deliver 35+ projects across aerospace, semiconductors, and pharma."
+  bio              : "Machine learning engineer with Oxford PhD in applied AI and data science."
   location         : "Zürich, Switzerland"
   email            :
   links:

@@ -7,17 +7,15 @@ author_profile: true
 gallery:
   - url: /assets/images/IMG_6716.jpg
     image_path: /assets/images/IMG_6716.jpg
-    alt: "Presenting at AMLD 2025 in Lausanne"
+    alt: "Presenting at AMLD 2025 in Lausanne."
   - url: /assets/images/IMG_6722.jpg
     image_path: /assets/images/IMG_6722.jpg
-    alt: "Presenting at AMLD 2025 in Lausanne"
+    alt: "Presenting at AMLD 2025 in Lausanne."
 toc: true
 toc_sticky: true
 toc_label: "On This Page"
 toc_icon: "fa fa-stream"
 ---
-
-Below is a selection of recorded talks, key conferences, and publications.
 
 ## Featured Talks
 
@@ -28,7 +26,7 @@ Below is a selection of recorded talks, key conferences, and publications.
 <div class="archive__item-teaser">
 <iframe class="embed-responsive-item" width="560" height="315"
         src="https://www.youtube.com/embed/vkBzcQGsa_8"
-        title="IMC Pitch at Embedded World 2025"
+        title="IMC Pitch at Embedded World 2025."
         frameborder="0" allowfullscreen></iframe>
 </div>
 <h3 class="archive__item-title">Unleashing In-Memory Computing with Synthara's ComputeRAM</h3>
@@ -41,7 +39,7 @@ Below is a selection of recorded talks, key conferences, and publications.
 <div class="archive__item-teaser">
 <iframe class="embed-responsive-item" width="560" height="315"
         src="https://www.youtube.com/embed/aqhmJOsvNvU"
-        title="Data Science Unmasks Brain Ageing"
+        title="Data Science Unmasks Brain Ageing."
         frameborder="0" allowfullscreen></iframe>
 </div>
 <h3 class="archive__item-title">Data Science Unmasks Brain Ageing: A Multimodal MRI Study</h3>
@@ -54,7 +52,7 @@ Below is a selection of recorded talks, key conferences, and publications.
 <div class="archive__item-teaser">
 <iframe class="embed-responsive-item" width="560" height="315"
         src="https://www.youtube.com/embed/lfBXlkOoe4U"
-        title="Ethics in Artificial Intelligence"
+        title="Ethics in Artificial Intelligence."
         frameborder="0" allowfullscreen></iframe>
 </div>
 <h3 class="archive__item-title">Ethics in Artificial Intelligence (Romanian)</h3>
@@ -64,7 +62,7 @@ Below is a selection of recorded talks, key conferences, and publications.
 
 </div>
 
-## Recent Conference & Workshop Appearances
+## Conferences & Workshops
 
 {% include gallery layout="half" %}
 
@@ -77,12 +75,12 @@ Below is a selection of recorded talks, key conferences, and publications.
 * **United Nations AI for Good Global Summit 2024** - Geneva, Switzerland
 * **IEEE Swiss Conference on Data Science 2023** - Zurich, Switzerland
 
-_Responsibilities:_ Expanded global brand visibility by delivering live demos, workshops, and keynotes, sourcing and managing leads, and generating a qualified pipeline.
+_Responsibilities:_ Support pre-sales by delivering demos, workshops, and pitches, and sourcing B2B sales and venture capital (VC) leads.
 
-## Academic Publications
+## Publications
 
 | Year | Title & Venue | Links |
 |------|---------------|-------|
-| 2024 | **Deep learning approaches to multimodal MRI brain age estimation** <br><em>University of Oxford DPhil Thesis</em> | [ORA: Oxford University Research Archive](https://ora.ox.ac.uk/objects/uuid:a792835e-dac8-4241-978a-97c95085feb5) |
+| 2024 | **Deep learning approaches to multimodal MRI brain age estimation** <br><em>University of Oxford PhD Thesis</em> | [ORA: Oxford University Research Archive](https://ora.ox.ac.uk/objects/uuid:a792835e-dac8-4241-978a-97c95085feb5) |
 | 2023 | **Brain Ages Derived from Different MRI Modalities are Associated with Distinct Biological Phenotypes** <br><em>10th IEEE Swiss Conference on Data Science</em> | [IEEE](https://ieeexplore.ieee.org/abstract/document/10196736) & [PDF](https://drive.google.com/file/d/1HZC3G7T1m7syxQMu5ZLt0DAsY5A3y0pN/view?usp=sharing) |
 | 2019 | **Design of Artificial Intelligence Agents for Games using Deep Reinforcement Learning** <br><em>arXiv preprint</em> | [arXiv](https://arxiv.org/abs/1905.04127) |

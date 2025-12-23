@@ -13,11 +13,12 @@ author_profile: true
 read_time: true
 ---
 
-Here, you can find some of the projects I have worked on.
+Here, you can find some of the large-scale projects I have worked on. For smaller projects and code samples, please visit my [GitHub](https://github.com/AndreiRoibu) or the [Blog](/blog/).
 
-To help navigate each project, given their interdisciplinary nature, I use the STAR+I framework:
+To help navigate, I use the STARS+I framework for each project:
 - **Situation**: Context and challenges.
 - **Task**: Objectives and goals.
 - **Action**: The steps taken to address the challenges.
-- **Interdisciplinary Integration**: Synthesizing across different disciplines.
 - **Result**: Outcome and impact.
+- **Scars**: Mistakes I made, and lessons I learned.
+- **Interdisciplinary**: Highlighting multidisciplinary areas involved.
