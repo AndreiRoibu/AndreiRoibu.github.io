@@ -73,7 +73,7 @@ toc_icon: "fa fa-stream"
 * **AMLD 2025** - Lausanne, Switzerland
 * **SWII 2024** - Zürich, Switzerland
 * **United Nations AI for Good Global Summit 2024** - Geneva, Switzerland
-* **IEEE Swiss Conference on Data Science 2023** - Zurich, Switzerland
+* **IEEE Swiss Conference on Data Science 2023** - Zürich, Switzerland
 
 _Responsibilities:_ Support pre-sales by delivering demos, workshops, and pitches, and sourcing B2B sales and venture capital (VC) leads.
 

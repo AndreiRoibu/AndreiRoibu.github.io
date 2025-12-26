@@ -28,12 +28,14 @@ existing atlas-based tools are slow and struggle with segmenting brain regions
 impacted by severe atrophy, particularly in lower 
 quality clinical data.
 
+
+
 <img src="/assets/images/p4b1.png" alt="difference-healthy-alzheimer" class="align-center" style="border-radius: 1%;">
 
 ## Task
 
 Part of our PhD-training at [SABS-R3](https://www.sabsr3.ox.ac.uk/home), our small
-team partnered with GE Healthcare to engineer an open-source MRI software tool
+team partnered with GE HealthCare to engineer an open-source MRI software tool
 capable of running locally on clinicians' machines, providing accurate and editable
 brain MRI segmentations for patients with severe neurodegeneration.
 
@@ -41,10 +43,10 @@ brain MRI segmentations for patients with severe neurodegeneration.
 
 Within our team, I took on three responsibilities:
 1. Using light Agile, I worked with
-clinicians and developers at GE Healthcare to define personas, jobs
+clinicians and developers at GE HealthCare to define personas, jobs
 to be done (JTBD), and evaluate demand for features and usability. I then worked with
-the team to prioritize the backlog, plan sprints, and manage delivery.
-2. Internally, I integrated the [QuickNat](https://github.com/ai-med/quickNAT_pytorch) network into the software.
+the team to prioritise the backlog, plan sprints, and manage delivery.
+2. Internally, I integrated the [QuickNAT](https://github.com/ai-med/quickNAT_pytorch) network into the software.
 3. Finally, I wrote the documentation and delivered training sessions
 to clinical end-users, supporting the adoption of the tool.
 
@@ -59,7 +61,7 @@ to clinical end-users, supporting the adoption of the tool.
 
 Our team delivered [Paint4Brains](https://github.com/SABS-R3-projects/Paint4Brains), 
 an open-source tool that boosted segmentation accuracy by 12% while allowing
-clinicians to manually edit results. We designed the software  to run locally on
+clinicians to manually edit results. We designed the software to run locally on
 standard Linux, Windows, and macOS laptops, ensuring data privacy, while improving
 segmentation speed by 90% vs. traditional atlas-based methods.
 

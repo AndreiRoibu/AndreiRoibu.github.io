@@ -51,7 +51,7 @@ As a self-taught programmer with a background in aeromechanical engineering,
 this was my first (very) deep dive into AI research. I made many and learned as many lessons. However, the two key takeaways were:
 1. Define the jobs to be done early, and reevaluate them often. This lesson came about
 after spending weeks blocked, not knowing how to proceed with an ambiguous task in 
-an unfamiliar domain, only to realize, with the help of my supervisor, that small,
+an unfamiliar domain, only to realise, with the help of my supervisor, that small,
 incremental steps are better than giant leaps.
 2. Test everything, as bugs can crop up in the most unexpected places. I learned
 this the hard way after spending days training my final deep RL agents, only

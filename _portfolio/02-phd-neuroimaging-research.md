@@ -18,7 +18,7 @@ read_time: true
 ---
 
 <div class="notice--info" markdown="1">
-I developed 3D multimodal deep learning and data analysis pipelines, linking complex brain aging processes to over 100 biological, environmental, and lifestyle factors, and supporting research into neurodegenerative diseases.
+I developed 3D multimodal deep learning and data analysis pipelines, linking complex brain ageing processes to over 100 biological, environmental, and lifestyle factors, and supporting research into neurodegenerative diseases.
 </div>
 
 ## Situation
@@ -55,7 +55,7 @@ types of images representing particular features within that modality.
 {% include figure
  image_path="/assets/images/exampleContrasts.png"
  alt="Example MRI Contrasts."
- caption="Example MRI contracts: (a) structural, (b) susceptibility-weighted, (c) task-functional, (d) tractography, (e) diffusion fractional anisotropy (FA), (f) diffusion FA skeletonized."
+ caption="Example MRI contracts: (a) structural, (b) susceptibility-weighted, (c) task-functional, (d) tractography, (e) diffusion fractional anisotropy (FA), (f) diffusion FA skeletonised."
  class="align-right"
 %}
 
@@ -70,7 +70,7 @@ data processing and deep learning HPC pipeline, using multimodal 3D MRIs from
 30k UK Biobank subjects to predict brain age, which included:
 
 * Accessing, preprocessing, and managing large-scale 3D neuroimaging datasets efficiently.
-* Training and optimizing 3D VGG-16-based CNN networks for each MRI modality.
+* Training and optimising 3D VGG-16-based CNN networks for each MRI modality.
 * Correcting results for variance, bias, and confounds, identifying statistically significant biological and lifestyle factors correlated with brain ageing deviations.
 
 {% include figure
@@ -154,7 +154,7 @@ My work bridged several domains:
 
 * AI & Data Science: Developing multimodal deep learning architectures and data fusion techniques.
 * Software Engineering: Building and managing large-scale end-to-end data processing and analysis pipelines for 3D imaging and biomedical datasets.
-* Neuroscience & Medicine: Ensuring model outcomes were biologically plausible, highlighting findings such as the association between skeletal measurements, bone mineral density, estrogen levels, and systemic inflammation in pre-menopausal women.
+* Neuroscience & Medicine: Ensuring model outcomes were biologically plausible, highlighting findings such as the association between skeletal measurements, bone mineral density, oestrogen levels, and systemic inflammation in pre-menopausal women.
 * Research Translation: Aligning research outcomes with Roche's drug development processes and biomarker discovery work.
 
 ## Technologies & Skills Used
@@ -173,7 +173,7 @@ My work bridged several domains:
   * Clinical AI Development
   * Interdisciplinary Research
   * Biomarker Discovery, Interpretation & Clinical Validation
-  * Research Translation & Commercialization
+  * Research Translation & Commercialisation
   * STEM Outreach & Scientific Communication
 
 ## Publications & Resources
@@ -196,7 +196,3 @@ My work bridged several domains:
 * Datasets:
   * [UK Biobank](https://www.ukbiobank.ac.uk)
   * [Zenodo: Full Results](https://zenodo.org/records/8110876)
-
-
-<!-- bundle exec jekyll clean   # clears old CSS                              
-bundle exec jekyll serve -->

@@ -58,7 +58,7 @@ technical expertise with project delivery and clear stakeholder communication.
 
 ## Education & Awards
 
-* **University of Oxford**: Ph.D. in Applied AI and Biomedical Data Science
+* **University of Oxford**: PhD in Applied AI and Biomedical Data Science
     * Thesis: Deep Learning Approaches to Multimodal MRI Brain Age Estimation ([_link_](https://ora.ox.ac.uk/objects/uuid:a792835e-dac8-4241-978a-97c95085feb5))
     * Awards: Royal Commission for the Exhibition of 1851 Industrial Fellowship (2021) ([_link_](https://royalcommission1851.org/mapping-brain-network-activity-from-structural-connectivity-using-deep-learning)), Gap Summit Leader of Tomorrow (2020)
 * **University of Sheffield**: MEng in Aerospace Engineering
@@ -78,8 +78,8 @@ technical expertise with project delivery and clear stakeholder communication.
 * **Frameworks**: PyTorch, TensorFlow, TFLite, Keras, ONNX, Scikit-Learn, Statsmodels, OpenAI Gym, NumPy, SciPy, Pandas, Matplotlib, Seaborn, PyMongo (MongoDB), h5py (HDF5), SQLAlchemy;
 * **Infrastructure**: Azure, Google Cloud, Docker, FastAPI, Slurm/HPC, Git CI/CD/CT, Nuitka, pytest;
 * **Deep Learning**: ANNs, Computer Vision (CNNs, Vision Transformers), Natural Language Processing (RNNs, LSTMs, GRUs, LLMs), Generative AI, Reinforcement Learning.
-* **Data Science**: Multimodal Data Fusion, Statistical Analysis, Data Engineering, HPC Pipelines, Data Visualization
-* **Embedded Programming**: TinyML, In-Memory Computing, Digital Signal Processing, Optimization, Quantization, Emulation
+* **Data Science**: Multimodal Data Fusion, Statistical Analysis, Data Engineering, HPC Pipelines, Data Visualisation
+* **Embedded Programming**: TinyML, In-Memory Computing, Digital Signal Processing, Optimisation, Quantisation, Emulation
 * **Project Management**: Agile, Lean, Kanban, Cross-Functional Communication, Product Roadmaps, Design Thinking, Change Management
 * **Business Development**: Technical Marketing, Horizon Scanning, Research Translation, Workshops, Pitching, Pre-Sales
 
@@ -90,4 +90,4 @@ technical expertise with project delivery and clear stakeholder communication.
 2. Define the jobs to be done.
 3. Use the right tools for the job.
 4. Iterate quickly, test thoroughly, and ask for regular feedback.
-5. Modularity favors scalability.
+5. Modularity favours scalability.

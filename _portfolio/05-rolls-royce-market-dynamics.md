@@ -31,7 +31,7 @@ Rolls-Royce and its airline partners were exploring electrification in aviation.
 
 ## Task
 
-During my internship in the Future Technologies Group, and internal Rolls-Royce 
+During my internship in the Future Technologies Group, an internal Rolls-Royce 
 consultancy team, my team tasked me with determining the following:
 
 1. Market attractiveness and total addressable market (TAM) for regional hybrid-electric aircraft.
@@ -53,8 +53,10 @@ received mentorship from senior engineers and managers.
 
 To address these questions, I adopted the following approach:
 * Firstly, I adapted an internal agent-based transportation model to simulate regional air dynamics, augmenting it with models of aircraft operating costs and airport noise perception.
-* I then populated the model with two datasets for specific geographies: one containing socio-economic information of population centers, and another with detailed airport infrastructure information.
+* I then populated the model with two datasets for specific geographies: one containing socio-economic information of population centres, and another with detailed airport infrastructure information.
 * Finally, I tested different aircraft designs under scenarios incorporating regulatory, noise, legal, and route‑economics constraints and counterfactuals.
+
+
 
 {% include figure
  image_path="/assets/images/rolls-royce-transportation-model.png"
@@ -79,7 +81,7 @@ The grilling I received from Rolls-Royce's CTO in the first presentation I gave 
 
 This project combined tools and insights from multiple domains:
 * Aerospace engineering and aircraft design.
-* Data analysis and modeling with counterfactuals.
+* Data analysis and modelling with counterfactuals.
 * Economics and market dynamics.
 * Regulatory, social, and political analysis.
 
@@ -93,10 +95,10 @@ This project combined tools and insights from multiple domains:
 ## Technologies & Skills Used
 
 * **Technical:** 
-  * Agent-Based Modeling
+  * Agent-Based Modelling
   * Market Simulation
   * Data Analysis
-  * Counterfactual Modeling
+  * Counterfactual Modelling
 
 * **Strategic:** 
   * Technology Roadmapping

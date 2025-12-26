@@ -7,7 +7,7 @@ header:
   caption: "Photo credit: [Unsplash](https://unsplash.com)"
 permalink: /projects/synthara-in-memory-computing/
 # core_discipline: ["AI", "Embedded Systems", "Signal Processing"]
-# meta_skill: ["Algorithm Optimization", "R&D Commercialization"]
+# meta_skill: ["Algorithm Optimisation", "R&D Commercialisation"]
 project_type: "Professional"
 toc: true
 toc_sticky: true
@@ -29,7 +29,9 @@ matrix-product primitive, unlocking over 100x speed and energy efficiency
 improvements vs. comparable hardware by reducing the need to move data
 between the memory and processor. IMC has existed for some time, 
 yet practical adoption has lagged
-[for various reasons](https://arxiv.org/pdf/2401.14428), making commercialization challenging.
+[for various reasons](https://arxiv.org/pdf/2401.14428), making commercialisation challenging.
+
+
 
 {% include figure
  image_path="/assets/images/imc-schematic-2.png"
@@ -42,7 +44,7 @@ yet practical adoption has lagged
 
 Working in a customer-facing engineering role, I support three areas driving Synthara's commercial efforts:
 1. Engineering an automated pipeline for benchmarking AI, signal processing, and
-other matrix-algebra workloads with an in-house  transactions-accurate emulator, and
+other matrix-algebra workloads with an in-house transaction-accurate emulator, and
 contributing application-layer features to the emulator itself.
 2. Supporting pre-sales engagements by translating customer requirements into
 KPI-driven analysis and design-space explorations, and delivering technical workshops, presentations, and collateral.
@@ -79,7 +81,7 @@ reports.
 * Collaborating on technical collateral generation, 
 including whitepapers, datasheets, manuals, blogs, presentations, and product value 
 propositions.
-* Supporting business developments by attending international conferences, 
+* Supporting business development by attending international conferences, 
 delivering presentations and workshops.
 
 {% include figure
@@ -94,13 +96,13 @@ delivering presentations and workshops.
 In addition to engineering, at Synthara, I have:
 * Contributed to team execution through lightweight planning and transitioning
 the small applications team from a Waterfall to a Lean Agile and Kanban methodology.
-* Partnering with seniors to establish and drive the applications roadmap, 
+* Partnering with seniors to establish and drive the applications roadmap. 
 * Mentoring engineers and interns on technical and non-technical topics. 
 
 
 ## Result
 
-I can summarize my contributions to Synthara as follows:
+I can summarise my contributions to Synthara as follows:
 * The automated benchmarking pipeline and emulator allowed us to reduce
 benchmarking turnaround from weeks to hours, while the workload library grew from
 just matrix-vector products to 30+ workloads of increasing complexity.
@@ -116,7 +118,7 @@ Coming out [of my PhD](/projects/phd-neuroimaging-research/), I was used
 to deep work in isolation, believing that great technical solutions would sell 
 themselves. Synthara taught me several key lessons:
 * Always design for modularity, as needs shift, making monolithic solutions either obsolete or hard to
-maintain. Modularity favors scalability and adaptability, which, together with
+maintain. Modularity favours scalability and adaptability, which, together with
 lightweight Agile and proactive roadmapping, help
 teams stay on top of features and priorities.
 * Talk in terms of the audience's needs and objectives. Taking  
@@ -143,7 +145,7 @@ Technical
 
 * Software Engineering with Python
 * In-Memory Computing & Embedded Systems
-* AI, LLM, Cryptography, Signal Processing Algorithm Optimization
+* AI, LLM, Cryptography, Signal Processing Algorithm Optimisation
 * System-Level Emulation & Benchmarking
 * Data Engineering and Analysis
 * Design Thinking

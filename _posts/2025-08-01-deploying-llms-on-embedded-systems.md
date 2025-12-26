@@ -11,7 +11,7 @@ tags:
   - LLM
   - Embedded Systems
   - Deep-Tech
-  - Algorithm Optimization
+  - Algorithm Optimisation
 author_profile: true
 read_time: true
 toc: true
@@ -34,9 +34,11 @@ The core challenge is that large language models (LLMs) consist of billions of p
 
 Bridging this gap is a story in three parts.
 
-### 1. We Start by Making Models Smaller: Compression & Optimization
+### 1. We Start by Making Models Smaller: Compression & Optimisation
 
-First, we shrink the model without compromising its performance. Techniques such as **quantization** (using lower-precision numbers), **pruning** (removing redundant weights), and **knowledge distillation** (training a smaller model to mimic a larger one) can drastically reduce an LLM's size. For instance, methods like [eDKM clustering](https://www.mdpi.com/2076-3417/15/9/4632) have already compressed LLaMA models from over 12 GB to a more manageable 2.5 GB with minimal impact on performance.
+
+
+First, we shrink the model without compromising its performance. Techniques such as quantisation (using lower-precision numbers), pruning (removing redundant weights), and knowledge distillation (training a smaller model to mimic a larger one) can drastically reduce an LLM's size. For instance, methods like [eDKM clustering](https://www.mdpi.com/2076-3417/15/9/4632) have already compressed LLaMA models from over 12 GB to a more manageable 2.5 GB with minimal impact on performance.
 
 ### 2. We Then Make Them Smarter: Efficient Inference
 
@@ -49,7 +51,7 @@ Second, we make the model run more efficiently. The biggest bottleneck in modern
 
 Finally, the hardware itself is evolving. We are seeing a new generation of chips emerging, such as the **[Qualcomm AR1 Gen 1](https://www.qualcomm.com/products/mobile/snapdragon/xr-vr-ar/snapdragon-ar1-plus-gen-1-platform)** and the **[Apple Neural Engine](https://machinelearning.apple.com/research/neural-engine-transformers)**, explicitly designed to run complex AI models at the edge. Designers often pair these chips with **High-Bandwidth Memory** technologies like [LPDDR5X](https://semiconductor.samsung.com/dram/lpddr/lpddr5x/), designed for fast data access on power-constrained devices.
 
-Yet, even these do not solve the fundamental data movement bottleneck. Addressing this situation is where novel concepts like **In-Memory Computing (IMC)** come into play, which perform computations directly in the memory. You can read more about this in a [case study on IMC in LLM Accelerators](https://synthara.ai/research/computeram-in-ai-accelerators-an-llm-case-study/).
+Yet, even these do not solve the fundamental data movement bottleneck. Addressing this situation is where novel concepts like In-Memory Computing (IMC) come into play, which perform computations directly in the memory. You can read more about this in a [case study on IMC in LLM Accelerators](https://synthara.ai/research/computeram-in-ai-accelerators-an-llm-case-study/).
 
 ## Truly Personal AI Assistants Require a Multidisciplinary Approach
 
