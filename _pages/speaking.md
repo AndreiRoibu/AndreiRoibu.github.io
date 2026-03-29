@@ -66,7 +66,8 @@ toc_icon: "fa fa-stream"
 
 {% include gallery layout="half" %}
 
-* **CERN Technical Workshop 2025** - Geneva, Switzerland
+* **Swiss Conference on Data Science SDS 2026** - Zürich, Switzerland
+* **TinyML Demo Day @ Logitech 2026** - Lausanne, Switzerland
 * **Embedded World 2025** - Nuremberg, Germany
 * **MWC Barcelona 2025** - Barcelona, Spain
 * **ISSCC 2025** - San Francisco, USA
