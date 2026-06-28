@@ -7,6 +7,7 @@ header:
   teaser: /assets/images/smart_glasses.jpeg
   caption: "Photo credit: [Pexels](https://pexels.com)"
 category: "AI"
+section: blog
 tags:
   - LLM
   - Embedded Systems

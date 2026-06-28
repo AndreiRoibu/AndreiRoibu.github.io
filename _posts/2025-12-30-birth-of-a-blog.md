@@ -7,6 +7,7 @@ header:
   teaser: /assets/images/andrew-neel-cckf4TsHAuw-unsplash-2.jpg
   caption: "Photo credit: [Andrew Neel](https://unsplash.com/@andrewtneel)"
 category: "Career"
+section: blog
 tags:
   - Career
 author_profile: true

@@ -17,17 +17,17 @@ minimal_mistakes_skin    : "dark" # "default" "air", "aqua", "contrast", "dark",
 # Site Settings
 locale                   : "en-GB"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Andrei Roibu"
+title                    : "Andrei Roibu, PhD"
 title_separator          : "|"
-subtitle                 : "Machine Learning Engineer"
-name                     : "Andrei Roibu"
-description              : "Machine learning engineer with Oxford PhD in applied AI and biomedical data science."
+subtitle                 : "Applied AI Systems Engineer"
+name                     : "Andrei Roibu, PhD"
+description              : "Applied AI systems engineer with Oxford PhD"
 url                      : "https://andreiroibu.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "AndreiRoibu/AndreiRoibu.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "assets/images/teaser-backup.jpeg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # logo                     : "assets/images/bio-photo.jpeg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "Andrei Roibu" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Andrei Roibu, PhD" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : true # true, false (default)
@@ -74,9 +74,9 @@ social:
 
 # Site Author
 author:
-  name             : "Andrei Roibu"
+  name             : "Andrei Roibu, PhD"
   avatar           : "assets/images/bio-photo.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Machine learning engineer with Oxford PhD in applied AI and data science."
+  bio              : "Applied AI Systems Engineer with Oxford PhD"
   location         : "Zürich, Switzerland"
   email            :
   links:

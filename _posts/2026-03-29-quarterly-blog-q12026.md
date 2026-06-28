@@ -3,10 +3,11 @@ title: "Q1 2026: A Solid Start to the Year"
 excerpt: "Planning, DSA, Transformers-based classifiers and a sustainable routine: a review of the first quarter of 2026"
 layout: single
 header:
-  image: /assets/images/2026Q1.003.png
-  teaser: /assets/images/2026Q1.002.png
+  image: /assets/quartely-audits/2026Q1.003.png
+  teaser: /assets/quartely-audits/2026Q1.002.png
   caption: "Photo credit: [Andrew Neel](https://unsplash.com/@andrewtneel)"
 category: "Career"
+section: blog
 tags:
   - Career
 author_profile: true
@@ -57,7 +58,7 @@ In total, I accumulated 50.5 Inspectable Shipped Hours (ISH) in Q1 2026.
 This is below what I had hoped for at the beginning of the quarter. However, it is a good start to the year, particularly given the workload and travel during this period. In addition, I began building a solid routine for my personal development, which is the most important achievement of the quarter.
 
 {% include figure
- image_path="/assets/images/2026Q1.001.png"
+ image_path="/assets/quartely-audits/2026Q1.001.png"
  alt="Q1 2026 ISH."
  caption="Inspectable Shipped Hours (ISH) for Q1 2026."
  class="align-right"
