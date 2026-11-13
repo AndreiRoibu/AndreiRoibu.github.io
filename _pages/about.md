@@ -35,7 +35,7 @@ technical expertise with project delivery and clear stakeholder communication.
 
 ## Career Snapshot
 
-* **Synthara AG**: I work in a customer-facing engineering setting, supporting 15+ pre-sales engagements by translating requirements into KPI-driven analysis and engineering automated benchmarking pipelines, reducing turnaround from weeks to hours. I also contribute to team execution through lightweight planning (Lean Agile/Kanban), driving the applications roadmap, and mentoring colleagues.
+* **Synthara AG**: I worked in a customer-facing engineering setting, supporting 15+ pre-sales engagements by translating requirements into KPI-driven analysis and engineering automated benchmarking pipelines, reducing turnaround from weeks to hours. I also contribute to team execution through lightweight planning (Lean Agile/Kanban), driving the applications roadmap, and mentoring colleagues.
 
 {% include figure
  image_path="/assets/images/synthara-ew-pitch.jpeg"

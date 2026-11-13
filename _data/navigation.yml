@@ -6,8 +6,6 @@ main:
     url: /projects/
   - title: "Blog"
     url: /blog/
-  - title: "Deutsch"
-    url: /deutsch/
   - title: "Speaking"
     url: /speaking/
   - title: "Contact"
