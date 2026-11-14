@@ -92,15 +92,9 @@ author:
     - label: "Xing"
       icon: "fab fa-fw fa-xing"
       url: "https://www.xing.com/profile/Andrei_Roibu059319"
-    - label: "GitHub (Personal)"
+    - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/AndreiRoibu"
-    - label: "GitHub (Work)"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/AndreiRoibu-synthara"
-    - label: "GitLab (DPhil)"
-      icon: "fab fa-fw fa-gitlab"
-      url: "https://git.fmrib.ox.ac.uk/aroibu"
 
 # Site Footer
 footer:
@@ -111,15 +105,12 @@ footer:
     - label: "Xing"
       icon: "fab fa-fw fa-xing"
       url: "https://www.xing.com/profile/Andrei_Roibu059319"
-    - label: "GitHub (Personal)"
+    - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/AndreiRoibu"
-    - label: "GitHub (Work)"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/AndreiRoibu-synthara"
-    - label: "GitLab (DPhil)"
-      icon: "fab fa-fw fa-gitlab"
-      url: "https://git.fmrib.ox.ac.uk/aroibu"
+    - label: "CV"
+      icon: "fas fa-fw fa-file-text"
+      url: "/assets/Andrei_Roibu_CV_Website.pdf"
 
 
 # Reading Files

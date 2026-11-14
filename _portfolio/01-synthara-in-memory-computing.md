@@ -164,3 +164,4 @@ Strategic & Communication
 ## Further Information
 
 * [Synthara Website](https://www.synthara.ai)
+* [GitHub (Synthara)](https://github.com/AndreiRoibu-synthara)
