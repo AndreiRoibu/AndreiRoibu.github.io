@@ -1,6 +1,6 @@
 ---
-title: "Speaking & Publications"
-permalink: /speaking/
+title: "Talks & Publications"
+permalink: /talks/
 layout: single
 classes: wide
 author_profile: true
