@@ -19,9 +19,9 @@ locale                   : "en-GB"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Andrei Roibu, PhD"
 title_separator          : "|"
-subtitle                 : "Applied AI Systems Engineer"
+subtitle                 : "Data and AI Engineer"
 name                     : "Andrei Roibu, PhD"
-description              : "Applied AI systems engineer with Oxford PhD"
+description              : "Data and AI Engineer with Oxford PhD"
 url                      : "https://andreiroibu.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "AndreiRoibu/AndreiRoibu.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -76,7 +76,7 @@ social:
 author:
   name             : "Andrei Roibu, PhD"
   avatar           : "assets/images/bio-photo.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Applied AI Systems Engineer with Oxford PhD"
+  bio              : "Data and AI Engineer with Oxford PhD"
   location         : "Zürich, Switzerland"
   email            :
   links:
